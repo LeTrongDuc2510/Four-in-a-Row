@@ -12,12 +12,11 @@ Input a number in the range 0-6 to drop your pieces.
 At the end of your turn, hit 'Enter' to continue, else press 'u' to undo.
 
 ## Bit Map setting
-Unit width in Pixels     : 1
-Unit height in Pixels    : 1
-Display width in Pixels  : 512
-Display height in Pixels : 512
-Base address for display : 0x10010000 (static data)
-
+* Unit width in Pixels     : 1
+* Unit height in Pixels    : 1
+* Display width in Pixels  : 512
+* Display height in Pixels : 512
+* Base address for display : 0x10010000 (static data)
 
 
 ![image](https://user-images.githubusercontent.com/87889069/206112996-e713991c-066f-4dd0-8dea-4b9fd6c4fe5d.png)
