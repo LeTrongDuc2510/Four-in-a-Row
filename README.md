@@ -8,8 +8,8 @@ The one who can put 4 pieces of the same color in a row horizontally, vertically
 Each player has 3 times to undo their move (before the opponent's turn).
 
 ## How to play
-Input a number in the range 0-6 to drop your pieces.
-At the end of your turn, hit 'Enter' to continue, else press 'u' to undo.
+* Input a number in the range 0-6 to drop your pieces.
+* At the end of your turn, hit 'Enter' to continue, else press 'u' to undo.
 
 ## Bit Map setting
 * Unit width in Pixels     : 1
