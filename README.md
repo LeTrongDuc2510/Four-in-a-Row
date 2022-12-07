@@ -19,4 +19,5 @@ Display height in Pixels : 512
 Base address for display : 0x10010000 (static data)
 
 
-![alt text](https://https://github.com/LeTrongDuc2510/Four-in-a-Row/blob/main/display/bit-map-1.png)
+
+![image](https://user-images.githubusercontent.com/87889069/206112996-e713991c-066f-4dd0-8dea-4b9fd6c4fe5d.png)
