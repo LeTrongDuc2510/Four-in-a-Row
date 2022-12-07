@@ -17,3 +17,6 @@ Unit height in Pixels    : 1
 Display width in Pixels  : 512
 Display height in Pixels : 512
 Base address for display : 0x10010000 (static data)
+
+
+![alt text](https://github.com/LeTrongDuc2510/Four-in-a-Row/blob/display/bit-map-1.png?raw=true)
